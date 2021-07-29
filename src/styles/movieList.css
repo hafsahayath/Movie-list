@@ -1,0 +1,30 @@
+.movie-list-container {
+    width: 800px;
+}
+
+.form-control-movielist {
+    display: flex;
+}
+
+.form-control-movielist input {
+    width: 80%;
+    margin-right: 5px;
+    padding: 5px;
+    border: 1px solid #DEDEE6;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.form-control-movielist select {
+    width: 20%;
+    padding: 5px;
+    border: 1px solid #DEDEE6;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.form-control-movielist input:focus,
+.form-control-movielist select:focus {
+    outline: transparent;
+}
+

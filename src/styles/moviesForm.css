@@ -1,0 +1,29 @@
+.movies-form-main-container{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 50px;
+}
+
+.movies-form-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    background-color: #A88FE6;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #af9cdf;
+    color: white;
+    cursor: pointer;
+}
+
+.movies-form-container input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #DEDEE6;
+    border-radius: 5px;
+}
+

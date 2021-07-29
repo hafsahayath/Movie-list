@@ -1,0 +1,9 @@
+.movie-container-top-flex {
+    display: flex;
+    justify-content: space-around
+}
+
+.aside-container {
+    display: flex;
+    flex-direction: column;
+}
